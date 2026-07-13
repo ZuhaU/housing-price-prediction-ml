@@ -1,4 +1,4 @@
-# House-Price-Prediction-ML
+# House-Price-Prediction-Project
 A beginner-level machine learning project analyzing housing data using exploratory data analysis and linear regression. Includes data visualization (histogram, scatter plot, heatmap) and model evaluation using R² score.
 The dataset includes basic housing attributes such as:
 - Area  
